@@ -1,3 +1,3 @@
 # detrending_lc
 
-Training --> Testing
+Obtaining the data --> Pre-processing --> Spilting the data --> Training --> Testing
